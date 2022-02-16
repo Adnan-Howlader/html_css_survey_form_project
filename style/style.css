@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+html{
+    font-size: 10px;
+}
+.container_heading{
+    position: relative;
+    left: 30%;
+}
+.heading{
+    font-size: 4rem;
+}
+.paragraph{
+    font-size: 2rem;
+}
+.input_bar{
+    width: 25rem;
+}
+.general_info{
+    position: relative;
+    left:30%;
+    margin-bottom: 2rem;
+}
+
+
+#input_bar_your{
+    height: 10rem;
+    width: 30rem;
+
+}
+
+#exercise_info{
+    left: 35%;
+}
